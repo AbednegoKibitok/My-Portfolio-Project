@@ -1,79 +1,84 @@
 header {
-  background-color: #191765;  
   height: 96px;
   width: 375px;
   top: 44px;
   display: flex;
   justify-content: space-between;
+  background-color: #191765;
 }
-.welcome{
-  color: #ffffff;
+
+.welcome {
+  color: #fff;
+  padding-left: 24px;
 }
+
 .hamburger {
   cursor: pointer;
   padding: 28px;
 }
+
 .bar {
   display: block;
   width: 25px;
   height: 3px;
   margin: 5px auto;
-  background-color: #ffffff;
+  background-color: #fff;
 }
-.dashboard{
-  width: 375px; 
-  background-color: #191765;   
+
+.dashboard {
+  width: 375px;
+  background-color: #191765;
 }
-.name{
-  color: #7D73FC;
+
+.name {
+  color: #7d73fc;
   text-align: center;
   letter-spacing: 0.37px;
   width: 327px;
   height: 55px;
-  font-family: 'Roboto';
-  font-style: normal;
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
   font-weight: 700;
   font-size: 32px;
   line-height: 72px;
 }
-.title{
+
+.title {
   width: 327px;
   height: 87px;
-  font-family: 'Roboto';
-  font-style: normal;
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
   font-weight: 500;
   font-size: 32px;
   line-height: 44px;
   text-align: center;
-  color: #EDECFF;
+  color: #edecff;
   flex: none;
   order: 1;
   flex-grow: 0;
 }
+
 .pa {
   width: 327px;
   height: 170px;
-  font-family: 'Roboto';
-  font-style: normal;
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
   font-weight: 400;
   font-size: 20px;
   line-height: 28px;
   text-align: center;
-  color: #C8C8D4;
+  color: #c8c8d4;
   flex: none;
   order: 0;
   flex-grow: 0;
 }
+
 ul {
   display: flex;
   justify-content: space-around;
   flex-direction: row;
   align-items: center;
-  padding: 0px;
+  padding: 0;
   height: 40px;
   flex: none;
   order: 0;
   flex-grow: 0;
   list-style-type: none;
-
 }
