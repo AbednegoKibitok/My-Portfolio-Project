@@ -1,7 +1,7 @@
 📖 MY PORTFOLIO PROJECT
 This is My Portfolio Project dashboard.
 
-My Portfolio Project dashboard my skills as a software developer.
+My Portfolio Project dashboard shows my skills as a software developer.
 
 🛠 Built With
 Tech Stack

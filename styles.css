@@ -1,28 +1,26 @@
+.body {
+  background-color: #191765; 
+  width: 375px;  
+}
 header {
   height: 96px;
   width: 375px;
   top: 44px;
   display: flex;
   justify-content: space-between;
-  background-color: #191765;
 }
 
 .welcome {
   color: #fff;
-  padding-left: 24px;
-}
-
-.hamburger {
+  font-size: 32px;
+  font-weight: 700;
+  padding: 24px;
   cursor: pointer;
-  padding: 28px;
 }
 
-.bar {
-  display: block;
-  width: 25px;
-  height: 3px;
-  margin: 5px auto;
-  background-color: #fff;
+.navigation_bar {
+  cursor: pointer;
+  padding: 24px;
 }
 
 .dashboard {
@@ -40,6 +38,14 @@ header {
   font-weight: 700;
   font-size: 32px;
   line-height: 72px;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.backgr {
+  position: absolute;
+  top: 32px;
+  filter: blur;
 }
 
 .title {
@@ -54,6 +60,8 @@ header {
   flex: none;
   order: 1;
   flex-grow: 0;
+  padding-left: 24px;
+  padding-right: 24px;
 }
 
 .pa {
@@ -68,6 +76,12 @@ header {
   flex: none;
   order: 0;
   flex-grow: 0;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.line {
+  padding: 24px;
 }
 
 ul {
