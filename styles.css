@@ -14,14 +14,18 @@ header {
 .welcome {
   color: #fff;
   font-size: 32px;
-  font-weight: 700;
-  padding: 24px;
+  font-weight: 500;
+  padding-top: 28px;
+  padding-left: 24px;
   cursor: pointer;
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
 }
 
 .navigation_bar {
   cursor: pointer;
-  padding: 24px;
+  padding: 32px;
+  width: 35.33px;
+  height: 22.83px;
 }
 
 .name {
@@ -85,7 +89,8 @@ header {
   justify-content: space-around;
   flex-direction: row;
   align-items: center;
-  padding: 0;
+  padding-left: 48px;
+  padding-right: 48px;
   height: 40px;
   flex: none;
   order: 0;
@@ -99,7 +104,7 @@ header {
   font-family: 'Roboto', Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 500;
-  font-size: 24px;
+  font-size: 18px;
   line-height: 24px;
 }
 
@@ -108,7 +113,7 @@ header {
   font-family: 'Roboto', Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 400;
-  font-size: 24px;
+  font-size: 18px;
   gap: 4.78px;
   display: flex;
   flex-direction: column;
@@ -119,11 +124,38 @@ header {
 
 .languageframeworks {
   display: flex;
-  justify-content: space-around;
+  justify-content: flex-start;
   align-items: flex-start;
 }
 
 .skill {
   display: flex;
   flex-direction: column;
+}
+
+.scroll {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  padding-top: 32Spx;
+  padding-bottom: 32px;
+}
+
+.text {
+  width: 327px;
+  height: 104px;
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 52px;
+  display: flex;
+  align-items: center;
+  color: #9490ff;
+  padding-left: 12px;
+}
+
+.ellipse {
+  position: absolute;
+  padding-left: 290px;
 }
