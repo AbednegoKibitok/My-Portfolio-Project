@@ -17,11 +17,12 @@ header {
   font-weight: 700;
   padding: 24px;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .navigation_bar {
   cursor: pointer;
-  padding: 24px;
+  padding: 32px;
 }
 
 .dashboard {
