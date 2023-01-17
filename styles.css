@@ -60,7 +60,7 @@
   display: flex;
   justify-content: center;
   gap: 12px;
-  padding-top: 32Spx;
+  padding-top: 32px;
   padding-bottom: 32px;
 }
 
@@ -98,7 +98,7 @@
   grid-area: 1/1/4/5;
   width: 327px;
   height: 236px;
-  background: linear-gradient(0deg, #F9F9F9, #F9F9F9), url(image_processing20200716-21735-f07s4k.png);
+  background: linear-gradient(0deg, #f9f9f9, #f9f9f9), url(image_processing20200716-21735-f07s4k.png);
 }
 
 .item2 {
@@ -175,14 +175,14 @@
   display: flex;
   align-items: center;
   justify-content: space-around;
-  padding: 0px;
+  padding: 0;
   gap: 8px;
   width: 312px;
   height: 40px;
 }
 
 .button {
-  background: #7D73fc;
+  background: #7d73fc;
   color: #edecff;
   border: none;
   padding: 15px;
@@ -196,6 +196,44 @@
 }
 
 .button:hover {
-  border: solid #0000ff;
+  border: solid #00f;
 }
 
+.bgr {
+  position: absolute;
+  background: #edeced;
+  width: 300px;
+  height: 30px;
+  filter: blur(25px);
+  transform: rotate(36.38deg);
+}
+
+.bgr1 {
+  position: absolute;
+  margin-left: 200px;
+  background: #edeced;
+  width: 300px;
+  height: 50px;
+  filter: blur(15px);
+  transform: rotate(-36.38deg);  
+}
+
+.bgr2 {
+  position: absolute;
+  background: #edecff;
+  margin-left: 0;
+  width: 200px;
+  height: 200px;
+  filter: blur(105px);
+}
+
+.bgr3 {
+  position: absolute;
+  margin-left: 190px;
+  margin-top: 150px;
+  background: #edecff;
+  width: 300px;
+  height: 100px;
+  filter: blur(35px);
+  transform: rotate(36.38deg);  
+}
