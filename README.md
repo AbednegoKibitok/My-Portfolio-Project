@@ -1,77 +1,208 @@
-# 📖My Portfolio Project
-This is my Portfolio website. Find all about me and my projects here.
+<a name="readme-top"></a>
 
-🛠 Built With
-Tech Stack
-This project was built using HTML and styled with CSS.
+# 📗 Table of Contents
 
-Client - HTML and CSS
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
-Navigation Bars - for navigating through the website.
-Hi there navigation - for taking you back to the dashboard.
+# 📖 [My Portfolio Project] <a name="about-project"></a>
 
-🚀 Live Demo
-Add a link to your deployed project.
+> This is my Portfolio. It contains everything that I am capable of doing as a software developer.
 
-https://github.com/AbednegoKibitok/My-Portfolio-Project
+**[MY PORTFOLIO PROJECT]** is a website that contains all about me as a software developer.
 
-💻 Getting Started
+## 🛠 Built With <a name="HTML and CSS"></a>
+
+### Tech Stack <a name="Front end"></a>
+
+> This is a Mobile browser website.
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://html.org/">HTML</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://css.org/">CSS</a></li>
+  </ul>
+</details>
+
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+
+- **[key_feature_1]**
+- **[key_feature_2]**
+- **[key_feature_3]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://github.com/AbednegoKibitok/My-Portfolio-Project)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
-Prerequisites
-In order to run this project you need: A computer, Tablet or a Mobile phone.
+### Prerequisites
 
-Setup
-Clone this repository to your desired folder in your machine.
+In order to run this project you need:
 
-Install
-Install this project with a computer, tablet or your smartphone.
+<!--
+Example command:
 
-Usage
-To run the project, execute the following command: copy the link in the browser.
+```sh
+ gem install rails
+```
+ -->
 
-Run tests
-To run tests, run the following command: click the navigation bar and navigate through it.
+### Setup
 
-Deployment
-You can deploy this project using: A browser of your choice. Copy  the link on the browser and you are up and running.
+Clone this repository to your desired folder:
 
-👥 Authors
-Mention all of the collaborators of this project.
+```sh
+  cd my-folder
+  git clone https://github.com/AbednegoKibitok/My-Portfolio-Project.git
+```
+--->
 
-👤 Author1
+### Install
 
-GitHub: https://github.com/AbednegoKibitok/My-Portfolio-Project
-Twitter: @abednegokibitok
-LinkedIn: Abednego Kibitok
+Install this project with:
 
-🔭 Future Features
+<!--
+Example command:
 
- My skills section with the skills that I have.
- Languge section with programming languages that I can code.
- Frameworks section showing frameworks that I can use.
-(back to top)
+```sh
+  cd my-project
+  gem install
+```
+--->
 
-🤝 Contributing
+### Usage
+
+To run the project, execute the following command:
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+### Run tests
+
+To run tests, run the following command:
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
+
+### Deployment
+
+You can deploy this project using:
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/AbednegoKibitok)
+- Twitter: [@twitterhandle](https://twitter.com/abedysongol)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abednego-kibitok-58717517a/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[new_feature_1]**
+- [ ] **[new_feature_2]**
+- [ ] **[new_feature_3]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](https://github.com/AbednegoKibitok/My-Portfolio-Project/issues).
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-⭐️ Show your support
+## ⭐️ Show your support <a name="support"></a>
 
-If you like this project reach out to me so that we can improve its capability and features.
+> Write a message to encourage readers to support your project
 
-(back to top)
+If you like this project, get back to me, we can add some more features to it.
 
-🙏 Acknowledgments
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-I would like to thank Microverse community for their immence support.
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-(back to top)
+> Give credit to everyone who inspired your codebase.
 
-📝 License
-This project is MIT licensed.
-https://github.com/AbednegoKibitok/My-Portfolio-Project/blob/main/LICENSE.md
+I would like to thank Microverse community for their support especially in their code review process.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **[Question_1]**
+
+  - [Answer_1]
+
+- **[Question_2]**
+
+  - [Answer_2]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](https://github.com/AbednegoKibitok/My-Portfolio-Project/blob/main/LICENSE.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
