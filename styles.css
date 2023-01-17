@@ -259,5 +259,62 @@ header {
 }
 
 .ellips {
+  position: absolute;
+}
+
+button {
+  display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px;
+gap: 10px;
+
+width: 89px;
+height: 48px;
+
+/* Theme 4 / Primary 2 */
+
+background: #7D73FC;
+cursor: pointer;
+
+/* Inside auto layout */
+
+flex: none;
+order: 3;
+flex-grow: 0;
+}
+
+.button1 {
+  width: 65px;
+height: 24px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 24px;
+/* identical to box height, or 200% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.03em;
+
+/* Theme 4 / Primary 4 */
+
+color: #EDECFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+button :hover {
+  border: solid;
+  color: #0000ff;
   
 }
+
