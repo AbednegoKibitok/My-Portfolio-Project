@@ -3,83 +3,6 @@
   background-color: #191765;
 }
 
-header {
-  height: 96px;
-  width: 375px;
-  top: 44px;
-  display: flex;
-  justify-content: space-between;
-}
-
-.welcome {
-  color: #fff;
-  font-size: 32px;
-  font-weight: 500;
-  padding-top: 28px;
-  padding-left: 24px;
-  cursor: pointer;
-  font-family: 'Roboto', Arial, Helvetica, sans-serif;
-}
-
-.navigation_bar {
-  cursor: pointer;
-  padding: 32px;
-  width: 35.33px;
-  height: 22.83px;
-}
-
-.name {
-  color: #7d73fc;
-  text-align: center;
-  letter-spacing: 0.37px;
-  width: 327px;
-  height: 55px;
-  font-family: 'Roboto', Arial, Helvetica, sans-serif;
-  font-weight: 700;
-  font-size: 32px;
-  line-height: 72px;
-  padding-left: 24px;
-  padding-right: 24px;
-}
-
-.backgr {
-  position: absolute;
-  top: 32px;
-  filter: blur;
-}
-
-.title {
-  width: 327px;
-  height: 87px;
-  font-family: 'Roboto', Arial, Helvetica, sans-serif;
-  font-weight: 500;
-  font-size: 32px;
-  line-height: 44px;
-  text-align: center;
-  color: #edecff;
-  flex: none;
-  order: 1;
-  flex-grow: 0;
-  padding-left: 24px;
-  padding-right: 24px;
-}
-
-.pa {
-  width: 327px;
-  height: 170px;
-  font-family: 'Roboto', Arial, Helvetica, sans-serif;
-  font-weight: 400;
-  font-size: 20px;
-  line-height: 28px;
-  text-align: center;
-  color: #c8c8d4;
-  flex: none;
-  order: 0;
-  flex-grow: 0;
-  padding-left: 24px;
-  padding-right: 24px;
-}
-
 .line {
   padding: 24px;
 }
@@ -258,63 +181,21 @@ header {
   height: 40px;
 }
 
-.ellips {
-  position: absolute;
+.button {
+  background: #7D73fc;
+  color: #edecff;
+  border: none;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 79px;
 }
 
-button {
-  display: flex;
-flex-direction: row;
-align-items: center;
-padding: 12px;
-gap: 10px;
-
-width: 89px;
-height: 48px;
-
-/* Theme 4 / Primary 2 */
-
-background: #7D73FC;
-cursor: pointer;
-
-/* Inside auto layout */
-
-flex: none;
-order: 3;
-flex-grow: 0;
-}
-
-.button1 {
-  width: 65px;
-height: 24px;
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 500;
-font-size: 12px;
-line-height: 24px;
-/* identical to box height, or 200% */
-
-display: flex;
-align-items: center;
-text-align: center;
-letter-spacing: 0.03em;
-
-/* Theme 4 / Primary 4 */
-
-color: #EDECFF;
-
-
-/* Inside auto layout */
-
-flex: none;
-order: 0;
-flex-grow: 0;
-}
-
-button :hover {
-  border: solid;
-  color: #0000ff;
-  
+.button:hover {
+  border: solid #0000ff;
 }
 
