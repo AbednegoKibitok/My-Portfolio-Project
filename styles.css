@@ -84,6 +84,7 @@
 }
 
 .grid-container {
+  flex-direction: column;
   display: grid;
   background-color: inherit;
   padding: 10px;
