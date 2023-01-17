@@ -49,6 +49,24 @@
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
+  }
+  
+.welcome {
+  color: #fff;
+  font-size: 32px;
+  font-weight: 500;
+  padding-top: 28px;
+  padding-left: 24px;
+  cursor: pointer;
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  text-decoration: none;
+}
+
+.navigation_bar {
+  cursor: pointer;
+  padding: 32px;
+  width: 35.33px;
+  height: 22.83px;
 }
 
 .skill {
