@@ -1,0 +1,86 @@
+.body {
+  width: 375px;
+  background-color: #191765;
+}
+
+header {
+  height: 96px;
+  width: 375px;
+  top: 44px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.welcome {
+  color: #fff;
+  font-size: 32px;
+  font-weight: 500;
+  padding-top: 28px;
+  padding-left: 24px;
+  cursor: pointer;
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  text-decoration: none;
+}
+
+.navigation_bar {
+  cursor: pointer;
+  padding: 32px;
+  width: 35.33px;
+  height: 22.83px;
+}
+
+.name {
+  color: #7d73fc;
+  text-align: center;
+  letter-spacing: 0.37px;
+  width: 327px;
+  height: 55px;
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 72px;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.backgr {
+  position: absolute;
+  top: 32px;
+  filter: blur;
+}
+
+.title {
+  width: 327px;
+  height: 87px;
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 44px;
+  text-align: center;
+  color: #edecff;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.pa {
+  width: 327px;
+  height: 170px;
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+  color: #c8c8d4;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.line {
+  padding: 24px;
+}
