@@ -48,9 +48,9 @@
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Button hover]**
+- **[Navigation bar]**
+- **[Mobile first feature]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,13 +72,7 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+- A browser that supports css grid
 
 ### Setup
 
@@ -94,50 +88,25 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+- Clone the code into your machine and run test in an editor of your choice.
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+- http://127.0.0.1:5500/index.html
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+- http://127.0.0.1:5500/index.html
 
 ### Deployment
 
 You can deploy this project using:
 
-<!--
-Example:
-
-```sh
-
-```
- -->
+- Deploy it on your mobile phone as it is mobile first.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,8 +126,8 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
+- [ ] **[Contact form]**
+- [ ] **[Desktop version of the website]**
 - [ ] **[new_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
